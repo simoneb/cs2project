@@ -1,3 +1,5 @@
+> The license of this software has changed to AWISC - Anti War ISC License
+
 > Ported from https://code.google.com/archive/p/cs2project/
 
 # cs2project
