@@ -1,6 +1,6 @@
 AWISC License - Anti War ISC
 
-Copyright 2007-present Simone Busoli
+Copyright 2015-present Simone Busoli
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
@@ -8,4 +8,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ANTI WAR CLAUSE
 
-This license is a modification of the original MIT license. It is identical to MIT but explicitly forbids use by any businesses, institutions or individuals residing or financing countries whose governments engage in wars against other countries.
+This license is a modification of the original ISC license. It is identical to ISC but explicitly forbids use by any businesses, institutions or individuals residing or financing countries whose governments engage in wars against other countries.
